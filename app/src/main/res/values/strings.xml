@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeechTranslator</string>
+    <string-array name="languages">
+        <item>FRENCH</item>
+        <item>GERMAN</item>
+        <item>SPANISH</item>
+    </string-array>
+</resources>
